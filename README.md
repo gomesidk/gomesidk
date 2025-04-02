@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gomesidk
-- 👀 I’m interested in software and hardware engineerin
+- 👀 I’m interested in software and hardware engineering
 - 🌱 I’m currently learning Computer Engineering at FEUP
 - 💞️ I’m looking to collaborate on software and hardware 
 - 📫 How to reach me:
