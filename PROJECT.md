@@ -45,7 +45,7 @@ Compilation of all of my project developed on my Computer Engineering bachelors 
     <tr>
       <td> LCOM </td>
       <td><a href="https://github.com/gomesidk/Survive-the-Blast">Survive the Blast</a></td>
-      <td> Game developed in C using MINIX OS for LCOM, and taking advantage of IO devices manipulation such as: Timer, Keyboard, Mouse, Graphics Card and Real-Time Clock </td>
+      <td> Game developed in C using MINIX OS for LCOM, and taking advantage of IO devices manipulation such as: Timer, Keyboard, Mouse, Graphics Card and Serial Port</td>
     </tr>
     <tr>
       <td> ESOF </td>
@@ -54,4 +54,5 @@ Compilation of all of my project developed on my Computer Engineering bachelors 
     </tr>
   </tbody>
 </table>
+
 
