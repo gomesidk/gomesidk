@@ -10,7 +10,7 @@
 
 ## 💻 Projects Developed
 
-You can check all the projects I have developed [here](PROJECTS.md), or see the ones I enjoyed the most down below!
+You can check all the projects I have developed [here](PROJECT.md), or see the ones I enjoyed the most down below!
 <!---
 gomesidk/gomesidk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
