@@ -1,5 +1,5 @@
 # Projects
-Compilation of all my repositories on Github. Some of them may still be private, but will be published once they're finished 👷‍♂️
+Compilation of all of my project developed on my Computer Engineering bachelors in FEUP
 
 ---
 ## University
@@ -14,7 +14,7 @@ Compilation of all my repositories on Github. Some of them may still be private,
   </thead>
   <tbody>
     <tr>
-      <td> Prog </td>
+      <td> PROG </td>
       <td><a href="https://github.com/gomesidk/SVG-to-PNG">SVG-to-PNG</a></td>
       <td> Project developed to transform svg files into png files, using C++ CLasses</td>
     </tr>
@@ -54,3 +54,4 @@ Compilation of all my repositories on Github. Some of them may still be private,
     </tr>
   </tbody>
 </table>
+
