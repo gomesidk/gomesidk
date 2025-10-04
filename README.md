@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gomesidk
-- 👀 I’m interested in software and hardware engineering
+- 👀 I’m interested in Data Science and Software Engineering
 - 🌱 I’m currently learning Computer Engineering at FEUP
-- 💞️ I’m looking to collaborate on software and hardware 
+- 💞️ I’m looking to collaborate on Software Engineering and Data Science
 - 📫 How to reach me:
 -   Linkedin: linkedin.com/in/joão-gomes-79a191335
 -   Gmail: joaogomesphone@gmail.com
