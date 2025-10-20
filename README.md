@@ -7,6 +7,7 @@
 -   Gmail: joaogomesphone@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Played basketball for 12 years!
+- 🕵️‍♂️ Recently Hacked by @Espyyy :D YAY!
 
 ## 💻 Projects Developed
 
